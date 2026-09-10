@@ -1,6 +1,7 @@
 # Hi there, I'm Madison 👋
 
-* Download my resume [here] (https://github.com/mdopson24/mdopson24/raw/main/jobresume..pdf)
+* Download my resume [here]
+  (https://github.com/mdopson24/mdopson24/raw/main/jobresume..pdf)
 
 I am currently a student at Baldwin Wallace University and just began my junior year.
 
