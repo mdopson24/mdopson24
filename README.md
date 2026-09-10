@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Madison 👋
 
-<!--
-**mdopson24/mdopson24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student at Baldwin Wallace University and just began my junior year.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Bachelors Degree in Marketing with a minor in Entrepreneurship at Baldwin Wallace University and I will be graduating in May of 2028.
+  
+* 🔭 **Current Focus:** Learning the components of technology and learning how to use Python.
+  
+* 🌱 **Currently Building:** Recently in class, I just created my own website using Python, it was an online planner for college students.
+  
+* 💡 **Interests:** Artificial Intelligence and Human Behavior.
+  
+* ⚡ **Fun Fact:** I work on my college campus at our Smoothie Bar and Market!
+  
+
+### 📌 Featured Projects
+
+| Website Creation | An online planner for college students to stay organized | Python |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using Gemini | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **Email:** mdopson24@bw.edu 
